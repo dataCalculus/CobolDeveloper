@@ -11,7 +11,7 @@
        FILE SECTION.
        WORKING-STORAGE SECTION.
        01  KEYED-INPUT.
-           05  CUST-NO-IN  PIC X(16).
+           05  CUST-NO-IN  PIC X(15).
            05  AMT1-IN     PIC 9(5).
            05  AMT2-IN     PIC 9(5).
            05  AMT3-IN     PIC 9(5).
